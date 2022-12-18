@@ -9,7 +9,7 @@ import Anna from "../assets/images/image-chess.webp";
 export const NOTIFICATIONS = [
   {
     userImg: Mark,
-    name: "Mark Webebr",
+    name: "Mark Webebr",    
     notify: "reacted to your recent post",
     reactedTo: "My first tournament today!",
     time: "1min ago",
